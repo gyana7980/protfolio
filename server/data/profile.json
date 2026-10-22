@@ -1,0 +1,94 @@
+{
+  "name": "Gyana Ranjan Sethi",
+  "title": "Aspiring Software Engineer",
+  "photo": "/image1.jpeg",
+  "objective": "I want to work as a Software Engineer, collaborating with a dynamic team, sharpening my coding skills and contributing to impactful projects that drive company growth.",
+  "heroRoles": ["Software Engineer", "Backend Explorer", "Python Tinkerer", "Problem Solver"],
+  "heroTalkLabel": "Let's talk",
+  "contactTitle": "Let's build something",
+  "contactMessage": "Open to software engineering opportunities and internships. Say hello!",
+  "contact": {
+    "email": ["gyanaranjansethi7980@gmail.com", "gsethi2023gift@edu.in"],
+    "phone": "+91 9438108296",
+    "address": "At- Khajuripada, Po- Kalapathar, Banki, Cuttack - 754009, Odisha",
+    "linkedin": "https://in.linkedin.com/in/gyana-sethi-90aa02293",
+    "locationLabel": "Odisha",
+    "locationUrl": "https://www.google.com/maps/search/?api=1&query=20%C2%B017%2703.1%22N%2085%C2%B023%2708.2%22E",
+    "linkedinName": "gyana-sethi",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "linkedinLabel": "LinkedIn",
+    "locationHeading": "Based in"
+  },
+  "education": [
+    {
+      "level": "B.Tech in Computer Science & Engineering",
+      "institution": "GIFT Autonomous, Bhubaneswar",
+      "board": "Biju Patnaik University of Technology",
+      "year": "Pursuing",
+      "status": "current"
+    },
+    {
+      "level": "Intermediate (+2)",
+      "institution": "PN Autonomous College, Khordha",
+      "board": "CHSE",
+      "year": "2023",
+      "status": "done"
+    },
+    {
+      "level": "Matriculation",
+      "institution": "Kalapathar Dhalapathar Govt. High School",
+      "board": "BSE",
+      "year": "2021",
+      "status": "done"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Web Development (Backend) Intern",
+      "company": "Web Bocket",
+      "location": "Bhubaneswar",
+      "period": "2025",
+      "duration": "45 days",
+      "outcome": "Backend web development: building reliable and secure server-side systems that manage data and deliver information to users efficiently."
+    },
+    {
+      "role": "Python Intern",
+      "company": "Moniba Technology & Innovation",
+      "location": "Bhubaneswar",
+      "period": "Jul 2024",
+      "duration": "30 days",
+      "outcome": "Enhanced Python programming skills with practical project experience and industry exposure."
+    }
+  ],
+  "skills": [
+    { "group": "Programming", "items": ["C", "Python", "Java", "JavaScript"] },
+    { "group": "Web Development", "items": ["React", "Node.js", "Express.js", "MongoDB", "HTML/CSS"] },
+    { "group": "Office Tools", "items": ["Word", "PowerPoint", "Excel"] },
+    { "group": "Creative Tools", "items": ["Adobe Photoshop", "Kinemaster"] }
+  ],
+  "achievements": [
+    {
+      "title": "Introduction To Industry 4.0 And Industrial.pdf",
+      "provider": "NPTEL",
+      "score": 54,
+      "certificateUrl": "/Introduction%20To%20Industry%204.0%20And%20Industrial.pdf"
+    },
+    {
+      "title": "Software Testing",
+      "provider": "NPTEL",
+      "score": 45,
+      "certificateUrl": "/Software%20Testing.pdf"
+    },
+    {
+      "title": "The Joy of Computing using Python.pdf",
+      "provider": "NPTEL",
+      "score": 61,
+      "certificateUrl": "/The%20Joy%20of%20Computing%20using%20Python.pdf"
+    }
+  ],
+  "strengths": ["Humble", "Polite", "Good listener"],
+  "hobbies": ["Cooking", "Sketching"],
+  "languages": ["English", "Hindi", "Odia"],
+  "nationality": "Indian"
+}

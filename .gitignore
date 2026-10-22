@@ -1,0 +1,11 @@
+node_modules/
+dist/
+
+# Ignore all .env files anywhere in the project
+*.env
+client/.env
+server/.env
+
+# Allow example files to be pushed
+!.env.example
+!client/.env.example

@@ -1,0 +1,19 @@
+{
+  "name": "gyana-cv-server",
+  "version": "1.0.0",
+  "description": "Express + MongoDB API for Gyana Ranjan Sethi's creative CV",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "seed": "node seed.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^8.5.0",
+    "multer": "^2.4.0"
+  }
+}
