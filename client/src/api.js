@@ -15,7 +15,7 @@ export async function adminRequest(path, options = {}) {
     headers.set('Content-Type', 'application/json');
   }
 
-  const res = await fetch(path, { ...options, headers });
+  const res = await fetch(`https://protfolio-rzme.onrender.com${path}`, { ...options, headers });
   const body = await res.json().catch(() => ({}));
   if (!res.ok) {
     if (res.status === 401) localStorage.removeItem('portfolio-admin-token');
