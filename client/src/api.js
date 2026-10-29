@@ -1,5 +1,5 @@
 export async function fetchProfile() {
-  const res = await fetch('/api/profile');
+  const res = await fetch('https://protfolio-rzme.onrender.com/api/profile');
   if (!res.ok) {
     const body = await res.json().catch(() => ({}));
     throw new Error(body.message || `Request failed (${res.status})`);
